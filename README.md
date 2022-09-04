@@ -15,6 +15,9 @@ It is possible to make the graphql server with only typegraphql and prisma as ou
 
 This template was made as a minimal starter template for your graphql server. you may choose to tune it according to your needs.
 
+### NOTE
+Please generate types and migrations in the sample prisma schema to test locally. also make a database in your local database before initiating migrations.
+
 ### Scripts
 
 1. install the deps.
