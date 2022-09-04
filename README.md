@@ -17,6 +17,7 @@ This template was made as a minimal starter template for your graphql server. yo
 
 ### NOTE
 Please generate types and migrations in the sample prisma schema to test locally. also make a database in your local database before initiating migrations.
+There's also some version sync between typegraphql and prisma and graphql to work. please check compatiblity of these before updating any.
 
 ### Scripts
 
